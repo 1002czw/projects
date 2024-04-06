@@ -1,0 +1,16 @@
+{
+  "AccountAddress" : "Prov_IoT001",
+  "EntityID": "Prov_IoT001",
+  "Role": "provider",
+  "Param": [],
+  "ModelUpdateAddress_Info": "./cli_Updates",
+  "ModelUpdate_Hash": "none",
+  "WhoCanSee": [],
+  "Price": 0,
+  "AccountBalance": 0,
+  "Publickey": "Prov_IoT001",
+  "Data_size": 0,
+  "Available_Resource": 0,
+  "Network_Latency": 0,
+  "RewardRule": []
+}

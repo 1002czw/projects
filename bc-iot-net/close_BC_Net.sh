@@ -1,0 +1,29 @@
+#!/bin/bash
+echo " Docker contains closing"
+docker stop peer0.org1.iot.com
+docker rm peer0.org1.iot.com
+docker stop peer1.org1.iot.com
+docker rm peer1.org1.iot.com
+docker stop cli_org1_peer0
+docker rm cli_org1_peer0
+docker stop cli_org1_peer1
+docker rm cli_org1_peer1
+docker stop peer0.org2.iot.com
+docker rm peer0.org2.iot.com
+docker stop peer1.org2.iot.com
+docker rm peer1.org2.iot.com
+docker stop cli_org2_peer0
+docker rm cli_org2_peer0
+docker stop cli_org2_peer1
+docker rm cli_org2_peer1
+docker stop couchdb0
+docker rm couchdb0
+docker stop couchdb1
+docker rm couchdb1
+docker stop couchdb2
+docker rm couchdb2
+docker stop couchdb3
+docker rm couchdb3
+docker stop orderer.iot.com
+docker rm orderer.iot.com
+#docker volume prune

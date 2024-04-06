@@ -1,0 +1,1 @@
+python ./run_Fed.py  --dataset_type='MNIST' --num_normal_clients=2 --num_freerider_clients=1 --num_adversarial_clients=1 --train_type='FedAvg_Shapley' --reward_metrics='F1' --distribution_type='NIID_1' --epoch=10 --model_size='MEDIUM' --shapley_filter=True --common_rounds=5

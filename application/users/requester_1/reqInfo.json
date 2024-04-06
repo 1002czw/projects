@@ -1,0 +1,12 @@
+{
+  "AccountAddress" : "Req_IoT001",
+  "EntityID": "Req_IoT001",
+  "Role": "requester",
+  "Param": [],
+  "ModelUpdateInfo": "./req_Updates",
+  "WhoCanSee": [],
+  "Price": 0,
+  "AccountBalance": 1000,
+  "Publickey": "Req_IoT001",
+  "RewardRule": []
+}

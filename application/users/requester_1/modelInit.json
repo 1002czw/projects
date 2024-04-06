@@ -1,0 +1,7 @@
+{
+  "Entity_Model_ID" : "Req_IoT001_GlobalModel",
+  "Param": [],
+  "ModelAddress": "../test_Aggre_Model",
+  "ModelType": "MINIST",
+  "TrainType": "FedShapley"
+}
